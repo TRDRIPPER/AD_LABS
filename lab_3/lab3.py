@@ -131,7 +131,8 @@ class StockExample(server.App):
         return css
 
 if __name__ == "__main__":
-    Downloads()
+    #Downloads()
     app = StockExample()
     app.launch(port=8081)  
  #
+    #rgrgr
