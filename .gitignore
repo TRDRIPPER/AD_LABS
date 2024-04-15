@@ -1,2 +1,5 @@
 __pycache__/
 csv_data
+lab4/*.zip
+*.txt
+*.csv
